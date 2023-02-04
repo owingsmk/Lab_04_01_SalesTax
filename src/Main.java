@@ -8,6 +8,6 @@ public class Main {
         System.out.println("The sales tax on your computer is "+ saleTax);
         double fullPrice;
         fullPrice = computerPrice + saleTax;
-                System.out.print("This is the total price of your comptuer "+ fullPrice);
+                System.out.print("This is the total price of your computer "+ fullPrice);
     }
 }
